@@ -1,0 +1,7 @@
+server_addr: 203.154.39.67:5223
+tunnels:
+  webui:
+    proto: http
+    addr: localhost:4200
+    auth: user:password
+    host: domain.com
